@@ -1,0 +1,101 @@
+Bug 5
+
+severity high
+title: Unable to Add "Disney Women's Hooded Sweatshirt Tinkerbell" to Wishlist from Search Results Page
+steps:
+Go to https://www.dummy.com
+Click on "search text box"
+Type "Disney Women's Hooded" in search text box and press Enter
+Click on product named as "Disney Women's Hooded Sweatshirt Tinkerbell"
+Click on size "L(18-20)"
+Click on "ADD TO Wishlist"
+
+result Description
+After typing "Disney Women's Hooded" in the search bar and selecting the product "Disney Women's Hooded Sweatshirt Tinkerbell," upon choosing a size and clicking the "Add to Wishlist" button, there is no response or action taken. No item is added to the user's Wishlist despite the selection and click action.
+Expected Result
+It is expected that when user clicks on "Add to Wishlist" under  specific product with selected size, the product must be added in Wishlist.
+
+problem
+Title and Result Description
+
+
+
+
+
+
+
+
+
+Bug 7
+
+severity critical
+title: When user clicks on view bag the price of product is different in the "ORDER SUMMARY" and "MY SHOPPING BAG"
+
+steps:
+Go to https://www.dummy.com
+Click on "search text box"
+Type "mid waist" in search text box
+Click on product named as "Mid Waist Swim Brief"
+Click on "Purple Color"
+Click on size "16"
+Click on "ADD TO BAG"
+Click on "VIEW BAG"
+
+result Description
+When user selects a product named as "Mid Waist Swim Brief" and selects size and color and clicks on "ADD TO BAG" then user clicks on "VIEW BAG" the price in the Order summary and My shopping bag is different.
+
+Expected Result
+It is expected that when user clicks on "VIEW BAG" the price in the bag and Order summary should be same.
+
+
+
+
+
+
+Bug 14
+
+severity critical
+title: When user went on BEDROOM module and clicked on BUNKBED no result is displayed on the screen
+
+steps:
+Go to https://www.dummy.com
+Click on "search button"
+Type "bunk bed" in search text box and press Enter
+Click on "BEDROOM" module
+Click on "BUNKBED" submodule"
+
+result Description
+When user goes to search bar and typed BUNKBED and clicked on search button at that time results are displayed on the screen but when user went to BEDROOM module and clicked on BUNKBED no results are displayed on the screen
+
+Expected Result
+It is expected that when user goes to the BunkBed through  search bar or through  clicking on BunkBed submodule relevant product list should be displayed to the user on the screen
+
+
+
+
+
+
+
+
+
+
+Bug 18
+
+severity critical
+title: "Error404 : page not found" message is displayed when user went for Login with facebook and clicked on "Not now"
+
+
+steps:
+Go to https://www.dummy.com
+Click on "Account"
+Click on "Login with Facebook"
+Click on "Not now"
+
+result Description
+When user clicked on Account and then clicked on "Login with facebook" an error message of "Error Accessing App" is displayed in pop up window then user clicks on "Not now" then "Error404 : page not found" message is displayed on the screen
+
+Expected Result
+It is expected that when error message of "Error Accessing App" is displayed and user clicks on "Not now" then user should be redirected to login page
+
+problem
+the title doesnt describe the problem
