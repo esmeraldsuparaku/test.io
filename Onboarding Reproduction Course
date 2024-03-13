@@ -1,0 +1,32 @@
+Q1: Where can you submit a Bug Reproduction? (select up to 3 answers)
+•	 When viewing another tester's bug report
+•	 On your tester dashboard in section "Bugs you can reproduce"
+•	 In the "Similar bug reports" list on the right-hand side of the bug report submission form
+
+Q2: What is a Negative Reproduction?
+•	 A Reproduction that shows that you cannot replicate the described bug on your device after following the same steps
+
+Q3: What are the requirements for the Bug Reproduction attachment at test IO? (select up to 3 answers)
+•	 It has to show the current date.
+•	 The screencast should in most cases be no longer than 15 seconds.
+•	 The screencast should only show the action triggering the bug.
+
+Q4: What 2 requirements must be met in order to receive payout for your Reproduction? (select 2 answers)
+•	 The Bug Reproduction has been accepted by test IO.
+•	 The Team Leader approved the original bug report.
+
+Q5: In which cases can you submit a Bug Reproduction? (select 2 answers)
+•	 The bug report hasn't been reviewed by the Team Leader yet and there is an available Reproduction spot.
+•	 There is 5 hour left until the test ends.
+
+Q6: What should be improved about the following Reproduction attachment for the Reproduction to be accepted by test IO? (select 2 answers)
+•	 The URL is not shown whereas every Reproduction attachment should show the URL.
+•	 The date is not included whereas every Reproduction attachment should show the current date.
+
+Q7: Would this Reproduction be accepted by test IO? (Select up to 2)
+An app crash reproduced on an Apple iPhone 11 Pro Max in Safari.
+
+•	 The reproduction would be rejected as a crash log file is missing since it is a reproduction of an app crash.
+•	 The reproduction would be rejected as the wrong device is selected.
+
+
