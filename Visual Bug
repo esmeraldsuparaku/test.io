@@ -1,0 +1,48 @@
+Bug 28
+Visual bug
+The Email text box is much bigger than the Password text box, when user add to cart a product, clicks on “International Checkout”, clicks on “Log in” 
+Title: The line space is not provided above the “Update” text button in the “Cart Page” when user clicks on “Add to Cart” button in “Product detail page” and views the cart
+Url: https://www.dummy.com/cart/
+Steps:
+Go to  https://www.dummy.com
+Go to “Glow Products” in the product navigation and click “Glow Sticks” from the “Drop-Down” list
+Scroll down and click on “6-inch Slim Glow Stick” in “Product category page”
+Type “1” in the “Quantity Box” against Yellow in the “Product detail page”
+Click on the “Add to Cart” button
+
+Result description:
+When user clicks on “Add to Cart” button in “Product detail page” and views the cart, user will notice that the line space above the “Update” text button is missing in the “Cart Page” and stacked together with the “Quantity Box”
+
+Expected result: 
+When user views the cart, user should see the “Update” text button without stacked together with the “Quantity Box” in the “Cart Page” and should be able to proceed without any eye caching interruptions
+
+
+
+
+
+
+
+
+Bug 30
+https://www.youtube.com/watch?v=gqRFcct4wgk&t=32s
+Visual Bug
+Title:
+The Email text box is much bigger than the Password text box, when user add to cart a product, clicks on “International Checkout”, clicks on “Log in” 
+Url: 	https://www.dummy.com/login/
+Steps:
+Go to  https://www.dummy.com
+Go to “Baby Boy” in the product menu and click “Footers” from the “Drop-Down” list
+Click and select a product named “Giraffe Footed One-Piece” in “Product category page”
+Select size "3M"
+Click on the “Add to Cart” button
+Click on the “International Checkout” button in “Product detail page”
+Click on "Log in” button in “Checkout”
+
+Result description:
+When user clicks “International Checkout” button in “Product detail page” and Click on "Log in” button in “Checkout”, user will notice that the Size of Email text box is much bigger than the Password text box
+
+Expected result: 
+When user views Log in form, user should see the “Email” text button without in the same size with "Password" text box and should be able to proceed without any eye caching interruptions
+
+
+
