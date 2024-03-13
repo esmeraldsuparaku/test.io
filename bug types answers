@@ -1,0 +1,39 @@
+Bug Types
+Page 2 / 10
+Q1: A content bug (a broken link (404 error)) is upgraded to a low functional bug if the link is located in: *(3 correct answers)
+•	 Navigation menu
+•	 Breadcrumb navigation
+•	 Header/footer
+
+Q2: Can spelling mistakes be submitted as content bugs?
+•	 No
+
+Q3: Which of the following scenarios are certainly functional bugs (as compared to usability suggestions)? *(3 correct answers)
+•	 A button does not trigger any action
+•	 An unknown error appears that does not let you continue
+•	 The customer's product works differently from what was stated in the test instructions
+
+Q4: What bug type would you suggest for the following bug?
+When the user clicks on the test IO logo at the top left corner of the Pricing page, they get redirected back to the landing page.
+•	 Not a bug
+
+Q5: What bug type would you suggest for the following bug?
+On the landing page, when changing the language to Russian, some tabs of the main navigation menu remain in English.
+•	 Content
+
+Q6: What bug type would you suggest for the following bug?
+On the Home & Living product page, when the custom price filter (from $10 to $12) is applied, some products outside of the given price range are still displayed.
+•	 Functional (Low)
+
+Q7: What bug type would you suggest for the following bug?
+The label “Can not reproduce” for the right button is cropped out and not fully visible.
+•	 Visual
+
+Q8: What bug type would you suggest for the following bug?
+Users are unable to sign in with their Apple account. Tapping on “Continue with apple” on the sign-in page leads to a 403 error message.
+•	 Functional (High)
+
+Q9: What bug type do you suggest for the following bug?
+The app crashes when the user swipes to accept the test invitation.
+•	 Functional (Critical)
+
